@@ -1,0 +1,14 @@
+{
+  "en": {
+    "greeting": "Hello",
+    "language": "Language"
+  },
+  "fa": {
+    "greeting": "سلام",
+    "language": "زبان"
+  },
+  "ar": {
+    "greeting": "مرحبا",
+    "language": "اللغة"
+  }
+}

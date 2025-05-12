@@ -1,0 +1,12 @@
+{
+  "en": {
+    "hello": "Hello",
+    "start": "Start",
+    "stop": "Stop"
+  },
+  "fa": {
+    "hello": "سلام",
+    "start": "شروع",
+    "stop": "توقف"
+  }
+}

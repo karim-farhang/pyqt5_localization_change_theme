@@ -1,0 +1,23 @@
+{
+  "en": {
+    "greeting": "Hello",
+    "theme": "Theme",
+    "font": "Font",
+    "date": "Date",
+    "language": "Language"
+  },
+  "fa": {
+    "greeting": "سلام",
+    "theme": "تم",
+    "font": "فونت",
+    "date": "تاریخ",
+    "language": "زبان"
+  },
+  "ar": {
+    "greeting": "مرحبا",
+    "theme": "السمة",
+    "font": "الخط",
+    "date": "التاريخ",
+    "language": "اللغة"
+  }
+}
